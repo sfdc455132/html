@@ -2,7 +2,7 @@
 
     健身一頁式網站
     開發日期: 13/12/21
-    開發人員: jerry chen
+    開發人員: shin ten a
 
 ## Instruction
 
