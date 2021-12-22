@@ -1,0 +1,59 @@
+body {
+    color: rgb(114, 226, 142);
+    background-color: rgb(5, 93, 128);
+    font-family: sans-serif, DFKai-SB, Microsoft-JhengHei;
+    width: 100%;
+    padding: 0px 32px;
+}
+
+.title {
+    background-color: #46bae7;
+    color: white;
+    font-size: 32px;
+    height: 40px;
+    border-radius: 12px;
+    margin: 20px;
+}
+
+#container {
+    font-size: 24px;
+    font-weight: 900;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.picture {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+table th {
+    font-weight: 900;
+    background-color: turquoise;
+}
+
+tr {
+    background-color: wheat;
+}
+
+td:first-child {
+    background-color: #ffff
+}
+
+form {
+    background-color: mistyrose;
+}
+
+button {
+    width: 120px;
+    border: 0;
+    padding: 16px;
+    color: moccasin;
+    background-color: navy;
+    border-radius: 20px;
+}
